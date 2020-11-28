@@ -3,7 +3,7 @@ This is a guided project under Career Launcher's Machine Learning Internship tha
 
 ## Table of contents
 * [Introduction](# Introduction)
-* [Technologies](# technologies)
+* [Technologies](# Technologies)
 * [Module 1- Anaylyzing stock using Python](#Module 1- Anaylyzing stock using Python)
 * [Module 2- Data visualization and Technical Analysis](#Module 2- Data visualization and Technical Analysis)
 * [Module 3- Fundamental analysis using Regression](#Module 3- Fundamental analysis using Regression)
