@@ -2,15 +2,14 @@
 This is a guided project under Career Launcher's Machine Learning Internship that I worked upon. Kindly refer the modules as reference.
 
 ## Table of contents
-* [Introduction](# Introduction)
-* [Technologies](# Technologies)
-* [Module 1- Anaylyzing stock using Python](#Module 1- Anaylyzing stock using Python)
-* [Module 2- Data visualization and Technical Analysis](#Module 2- Data visualization and Technical Analysis)
-* [Module 3- Fundamental analysis using Regression](#Module 3- Fundamental analysis using Regression)
-* [Module 4-Trade Call Prediction using Classification](#Module 4-Trade Call Prediction using Classification)
-* [Module 5- Modern Portfolio Theory](#Module 5- Modern Portfolio Theory)
-* [Module 6- Clustering for Diversification analysis](#Module 6- Clustering for Diversification analysis)
-
+* Introduction
+* Technologies
+* Module 1- Anaylyzing stock using Python
+* Module 2- Data visualization and Technical Analysis
+* Module 3- Fundamental analysis using Regression
+* Module 4-Trade Call Prediction using Classification
+* Module 5- Modern Portfolio Theory
+* Module 6- Clustering for Diversification analysis
 
 ## Introduction
 The aim of the guided project is to use data analysis and machine learning in python to solve various problem statements. There are various datasets used for the analysis. 
